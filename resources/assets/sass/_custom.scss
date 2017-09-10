@@ -1,0 +1,39 @@
+// Custom
+//
+// Override the Bootstrap defaults without modifying key, versioned files.
+
+
+.card {
+  margin-bottom: 25px !important;
+}
+
+h2 {
+  color: #428bca;
+}
+
+
+
+.github_link img {
+  margin-right: 5px;
+}
+
+h2 {
+  color: #428bca;
+}
+
+table {
+  width: 100%;
+  font-size: 12px;
+}
+
+table pre {
+  max-width: 600px;
+  overflow: visible;
+  text-align: left;
+}
+
+.footer {
+  padding-top: 1.5rem;
+  color: #777;
+  border-top: .05rem solid #e5e5e5;
+}
