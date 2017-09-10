@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Navbar Template for Bootstrap</title>
+    <title>{{ config('app.title') }}</title>
     <link rel="shortcut icon" type="image/png" href="/img/github_16x16.png"/>
 
     <!-- CSRF Token -->
