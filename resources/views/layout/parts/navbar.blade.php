@@ -7,7 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarsExample09">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">DNS <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/">DNS <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" target="_blank" href="https://digital4u.nl">Digital4u</a>
