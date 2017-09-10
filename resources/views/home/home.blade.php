@@ -37,7 +37,7 @@
 
                         <small><a target="_blank" class="github_link"
                                   href="https://github.com/johnnymast/redbox-dns"><img
-                                        src="/img/github_16x16.png">https://github.com/johnnymast/redbox-dns</a>
+                                        src="/img/github_16x16.png" alt="Bekijk op github">https://github.com/johnnymast/redbox-dns</a>
                         </small>
                         @captcha()
                         {{ Form::close() }}
